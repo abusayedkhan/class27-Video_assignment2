@@ -1,0 +1,355 @@
+@media (max-width:1200px){
+    .content-left-map iframe {
+        width: 535px;
+        height: 350px;
+    }
+    .content-right-form h4 {
+        font-size: 20px;
+        font-weight: 500;
+        margin-bottom: 13px;
+    }
+    .content-right-form p {
+        font-size: 14px;
+    }
+    .footer-contact-from {
+        margin-top: 28px;
+    }
+    .default-input {
+        padding: 12px 13px;
+        font-size: 14px;
+    }
+    .submit-btn {
+        font-size: 20px;
+        padding: 12px 55px;
+    }
+}
+@media (max-width:1000px){
+    .logo img {
+        height: 45px;
+    }
+    .logo span {
+        font-size: 15px;
+    }
+    .primary-menu ul li a {
+        padding: 0 6px;
+        font-size: 15px;
+        line-height: 49px;
+    }
+    .header-btn {
+        padding: 9px 12px;
+        font-size: 13px;
+    }
+    .header-section {
+        padding: 5px 0;
+    }
+    .header-logo {
+        width: 30%;
+        padding-left: 5px;
+        box-sizing: border-box;
+    }
+    .left {
+        float: left;
+        padding-right: 5px;
+        box-sizing: border-box;
+    }
+    .banner-content h3 {
+        font-size: 18px;
+    }
+    .banner-content h2 {
+        font-size: 40px;
+    }
+    .default-btn {
+        padding: 10px 15px;
+        font-size: 15px;
+    }
+    .banner-section {
+        padding: 80px 0;
+    }
+    .video-content-right p {
+        font-size: 12px;
+    }
+    .video-content-right h3 {
+        font-size: 27px;
+    }
+    .banner-bottom {
+        padding: 33px 0;
+    }
+    .section-title h1 {
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+    .section-title p {
+        font-size: 20px;
+    }
+    .service-section {
+        padding: 28px 0;
+    }
+    .services-items {
+        margin-top: 41px;
+    }
+    .s-icon {
+        font-size: 33px;
+        min-height: 116px;
+    }
+    .s-content h3{
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .s-content p{
+        font-size: 15px;
+    }
+    .section-title h2 {
+        font-size: 40px;
+    }
+    .section-title p {
+        font-size: 14px;
+    }
+    .p-content {
+        padding: 18px;
+    }
+    .p-content ul li {
+        margin: 5px 0;
+        font-size: 13px;
+    }
+    .p-content ul li span {
+        font-size: 23px;
+        width: 30px;
+    }
+    .p-button {
+        margin-top: 28px;
+    }
+    .p-heading h4 {
+        font-size: 20px;
+    }
+    .p-heading h1 {
+        margin: 23px 0;
+        font-size: 38px;
+    }
+    .p-heading h5 {
+        font-size: 16px;
+    }
+    .p-heading p {
+        font-size: 15px;
+    }
+    .team-section .section-title  h2 {
+        font-size: 30px;
+    }
+    .team-section {
+        padding: 55px 0;
+    }
+    .default-input {
+        padding: 12px 19px;
+        font-size: 17px;
+    }
+    .newslatter-from {
+        margin-top: 40px;
+    }
+    .submit-btn {
+        font-size: 17px;
+        padding: 12px 70px;
+    }
+    .b-hading h2 {
+        font-size: 26px;
+    }
+    .blog-title {
+        padding: 30px 0px;
+    }
+    .bt-content p {
+        font-size: 15px;
+    }
+    .blog-post-item img {
+        width: 235px;
+    }
+    .blog-post-content h3 {
+        font-size: 20px;
+        margin-bottom: 18px;
+    }
+    .blog-post-content p {
+        font-size: 13px;
+    }
+    .blog-section {
+        padding: 40px 0;
+    }
+    .section-title.newslatter-title h2 {
+        margin-top: 25px;
+        font-size: 24px;
+    }
+    .testimonial-section {
+        padding: 47px 0;
+    }
+    .testimonial-items {
+        margin-top: 42px;
+    }
+    .t-content {
+        padding: 29px 24px;
+    }
+    .t-content p {
+        font-size: 12px;
+        line-height: 1.4em;
+    }
+    .content-left-map iframe {
+        width: 410px;
+        height: 350px;
+    }
+}
+@media (max-width:800px){
+    .service-box {
+        width: 48%;
+    }
+    .service-box {
+        margin-right: 0%;
+    }
+    .p-content ul li span {
+        font-size: 12px;
+        width: 17px;
+    }
+    .p-content ul li {
+        font-size: 10px;
+        margin: 0;
+    }
+    .p-heading h4 {
+        font-size: 13px;
+    }
+    .p-heading h1 {
+        margin: 10px 0;
+        font-size: 24px;
+    }
+    .p-heading h5 {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+    .p-heading p {
+        font-size: 11px;
+    }
+    .default-btn {
+        padding: 6px 8px;
+        font-size: 12px;
+    }
+    .pricing-tables {
+        margin-top: 37px;
+    }
+    .team-section {
+        padding: 12px 0;
+    }
+    .team-section .section-title  h2 {
+        font-size: 20px;
+    }
+    .section-title h2 {
+        margin-bottom: 5px;
+    }
+    .team-members {
+        margin-top: 40px;
+    }
+    .member {
+        width: 48%;
+        margin-bottom: 10px;
+    }
+    .newslatter-section {
+        padding: 24px 0;
+    }
+    .section-title.newslatter-title h2 {
+        margin-top: 18px;
+        font-size: 30px;
+    }
+    .newslatter-from {
+        margin-top: 29px;
+    }
+    .blog-post-item img {
+        width: 100%;
+    }
+    .blog-post-content h3 {
+        font-size: 20px;
+        margin-bottom: 6px;
+        margin-top: 10px;
+    }
+    .b-hading h2 {
+        font-size: 17px;
+    }
+    .blog-title {
+        padding: 13px 0px;
+    }
+    .bt-content p {
+        font-size: 11px;
+    }
+    .content-left-map iframe {
+        width: 335px;
+        height: 345px;
+    }
+    .content-right-form {
+        width: 48%;
+        margin-top: -27px;
+    }
+    .content-right-form p {
+        font-size: 11px;
+    }
+    .default-input {
+        padding: 6px 19px;
+        font-size: 10px;
+    }
+}
+
+@media (max-width:650px){
+    .header-logo {
+        width: 100%;
+    }
+    .header-menu {
+        width: 80%;
+    }
+    .header-button {
+        width: 20%;
+    }
+    .p-heading {
+        padding: 8px;
+    }
+    .section-title h2 {
+        font-size: 22px;
+    }
+    .section-title p {
+        font-size: 8px;
+    }
+    .pricing-table-section {
+        padding: 14px;
+    }
+    .i-item {
+        width: 100%;
+        margin-right: 2%;
+        margin-bottom: 8px;
+    }
+    .content-left-map {
+        width: 100%;
+    }
+    .content-left-map iframe {
+        width: 100%;
+        height: 345px;
+        margin-bottom: 29px;
+    }
+    .content-right-form {
+        width: 100%;
+    }
+    .default-input {
+        padding: 12px 19px;
+    }
+}
+@media (max-width:590px){
+    .default-input {
+        margin-bottom: 8px;
+    }
+}
+@media (max-width:525px){
+    .pricing-table-item {
+        width: 100%;
+        margin-bottom: 5px;
+    }
+    .blog-post-item {
+        width: 100%;
+        margin-bottom: 8px;
+    }
+}
+@media (max-width:425px){
+    .service-box {
+        width: 100%;
+    }
+    .member {
+        width: 100%;
+    }
+}
